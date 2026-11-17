@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-gst-rpi"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-gst-rpi component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
